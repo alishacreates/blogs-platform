@@ -29,7 +29,6 @@ Readers can browse published articles, open posts through unique URLs, like arti
 
 Both interfaces communicate with an Express REST API backed by MongoDB.
 
-> **Status:** Under active development. Authentication and protected admin routes are not yet implemented.
 
 ## Features
 
