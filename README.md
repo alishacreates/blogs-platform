@@ -33,10 +33,6 @@ backend/
 blog-user/
 blog-admin/
 
-## Project Status
-
-Currently under active development.
-
 ### Upcoming Features
 
 * User Authentication
