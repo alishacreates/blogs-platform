@@ -1,6 +1,6 @@
 <div align="center">
 
-# Full-Stack Blog Platform
+# Blogs Platform
 
 A blogging platform with dedicated reader and admin interfaces, rich-text publishing, and reader interactions.
 
